@@ -1,3 +1,4 @@
+[Thanks to](https:\\www.patika.dev)
 ----1- Sort the data in the movie tables and in the description columns.
 SELECT title, description from movie;
 --2- Sort the data in all columns in the movie table from 60 to 75 AND 75 to less than ten.
